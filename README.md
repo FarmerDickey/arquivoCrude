@@ -66,7 +66,7 @@ java FileSystemSimulator
 * Tenha cuidado ao navegar em diretórios sensíveis do sistema.
 * O simulador é apenas de leitura, ou seja, **não altera nem deleta arquivos**.
 
-## 👨‍💻 Autor
+##  Autor
 
 Desenvolvido por Pablo Amorim como parte de um projeto acadêmico de simulação de sistemas de arquivos em Java.
 \
