@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de um arquivo `README.md` simples, bem estruturado e descritivo para o seu **Simulador de Sistema de Arquivos (com diretórios reais)** em Java:
-
----
 
 ```markdown
 # 🗂️ Simulador de Sistema de Arquivos (Java)
